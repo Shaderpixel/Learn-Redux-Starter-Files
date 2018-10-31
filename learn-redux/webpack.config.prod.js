@@ -2,6 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
+  mode: production,
   devtool: 'source-map',
   entry: [
     
@@ -19,14 +20,9 @@ module.exports = {
         'NODE_ENV': "'production'"
       }
     }),
-    new webpack.optimize.UglifyJsPlugin({
-      compressor: {
-        warnings: false
-      }
-    })
   ],
   module: {
-    loaders: [
+    rules: [
     // js
     {
       test: /\.js$/,
