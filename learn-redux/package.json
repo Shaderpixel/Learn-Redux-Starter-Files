@@ -34,11 +34,9 @@
     "express": "^4.13.4",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
-    "react-addons-css-transition-group": "^15.0.2",
     "react-dom": "^15.0.2",
     "react-redux": "^4.4.5",
     "react-router": "^2.4.0",
-    "react-router-redux": "^4.0.4",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.3",
@@ -54,7 +52,6 @@
   "devDependencies": {
     "expect": "^1.18.0",
     "expect-jsx": "^2.5.1",
-    "mocha": "^2.4.5",
-    "react-addons-test-utils": "^15.0.2"
+    "mocha": "^2.4.5"
   }
 }
