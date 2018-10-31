@@ -2,7 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-  mode: development,
+  mode: 'development',
   devtool: 'source-map',
   entry: [
     'webpack-hot-middleware/client',
@@ -22,7 +22,7 @@ module.exports = {
     // js
     {
       test: /\.js$/,
-      loaders: ['babel'],
+      loaders: ['babel-loader'],
       include: path.join(__dirname, 'client')
     },
     // CSS
