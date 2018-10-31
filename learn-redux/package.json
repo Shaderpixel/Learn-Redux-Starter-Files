@@ -37,7 +37,7 @@
     "history": "^4.7.2",
     "raven-js": "^2.3.0",
     "react": "^16.6.0",
-    "react-dom": "^15.0.2",
+    "react-dom": "^16.6.0",
     "react-element-to-jsx-string": "^14.0.2",
     "react-redux": "^5.1.0",
     "react-router": "^4.3.1",
