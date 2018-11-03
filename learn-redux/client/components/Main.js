@@ -13,7 +13,11 @@ class Main extends React.Component {
           <Link to="/">Reduxstagram</Link>
         </h1>
         <Switch>
-          <Route exact path={'/'} component={PhotoGrid} />
+          <Route
+            exact
+            path={'/'}
+            render={() => <PhotoGrid {...this.props} />}
+          />
           <Route path={'/view/:postId'} exact component={Single} />
         </Switch>
       </div>
