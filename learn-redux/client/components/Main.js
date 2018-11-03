@@ -18,7 +18,10 @@ class Main extends React.Component {
             path={'/'}
             render={() => <PhotoGrid {...this.props} />}
           />
-          <Route path={'/view/:postId'} exact component={Single} />
+          <Route
+            path={'/view/:postId'}
+            render={state => <Single {...this.props} match={state.match} />}
+          />
         </Switch>
       </div>
     );
