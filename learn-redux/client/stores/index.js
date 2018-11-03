@@ -5,7 +5,7 @@ import { connectRouter, routerMiddleware } from 'connected-react-router';
 import history from './history';
 
 // import the root reducer
-import rootReducer from './reducers/index';
+import rootReducer from './../reducers/index';
 
 // import data
 import comments from './../data/comments';

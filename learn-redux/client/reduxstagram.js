@@ -6,6 +6,8 @@ import { render } from 'react-dom';
 import { ConnectedRouter } from 'connected-react-router';
 import { BrowserRouter, Route } from 'react-router-dom';
 import history from './stores/history';
+import { Provider } from 'react-redux';
+import store from './stores/index';
 
 // import css
 import css from './styles/style.styl';
@@ -14,9 +16,11 @@ import css from './styles/style.styl';
 import Main from './components/Main';
 
 const router = (
-  <BrowserRouter>
-    <Route path="/" component={Main} />
-  </BrowserRouter>
+  <Provider store={store}>
+    <ConnectedRouter history={history}>
+      <Route path="/" component={Main} />
+    </ConnectedRouter>
+  </Provider>
 );
 
 render(router, document.querySelector('#root'));
