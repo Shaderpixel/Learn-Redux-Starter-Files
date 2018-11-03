@@ -13,12 +13,12 @@ import store from './stores/index';
 import css from './styles/style.styl';
 
 //Import components
-import Main from './components/Main';
+import App from './components/App';
 
 const router = (
   <Provider store={store}>
     <ConnectedRouter history={history}>
-      <Route path="/" component={Main} />
+      <Route path="/" component={App} />
     </ConnectedRouter>
   </Provider>
 );
