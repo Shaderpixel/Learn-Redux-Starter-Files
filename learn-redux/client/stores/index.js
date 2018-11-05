@@ -17,10 +17,15 @@ const defaultState = {
   comments,
 };
 
+const storeEnahncer = compose(
+  window.devToolsExtension ? window.devToolsExtension() : f => f,
+  applyMiddleware(routerMiddleware(history)),
+);
+
 const store = createStore(
   connectRouter(history)(rootReducer),
   defaultState,
-  compose(applyMiddleware(routerMiddleware(history))),
+  storeEnahncer,
 );
 
 if (module.hot) {

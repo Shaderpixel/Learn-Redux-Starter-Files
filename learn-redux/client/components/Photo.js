@@ -38,7 +38,7 @@ class Photo extends React.Component {
             >
               &hearts; {post.likes}
             </button>
-            <Link className="button" to={`view/${post.code}`}>
+            <Link className="button" to={`/view/${post.code}`}>
               <span className="comment-count">
                 <span className="speech-bubble" />&nbsp;
                 {comments[post.code] ? comments[post.code].length : 0}
