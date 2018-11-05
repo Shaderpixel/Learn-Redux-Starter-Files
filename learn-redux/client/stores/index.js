@@ -23,4 +23,11 @@ const store = createStore(
   compose(applyMiddleware(routerMiddleware(history))),
 );
 
+if (module.hot) {
+  module.hot.accept('../reducers/', () => {
+    const nextRootReducer = require('../reducers/index').default;
+    store.replaceReducer(connectRouter(history)(nextRootReducer));
+  });
+}
+
 export default store;
