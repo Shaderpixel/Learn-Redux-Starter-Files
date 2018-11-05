@@ -14,7 +14,7 @@ class Single extends React.Component {
     return (
       <div className="single-photo">
         <Photo {...this.props} i={i} post={post} />
-        <Comments postComments={postComments} />
+        <Comments {...this.props} postComments={postComments} />
       </div>
     );
   }
