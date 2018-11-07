@@ -1,6 +1,18 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 class Comments extends React.Component {
+  static propTypes = {
+    remove_comment: PropTypes.func,
+    add_comment: PropTypes.func,
+    match: PropTypes.shape({
+      params: PropTypes.shape({
+        postId: PropTypes.string,
+      }),
+    }),
+    postComments: PropTypes.array,
+  };
+
   renderComment = (comment, i) => {
     return (
       <div className="comment" key={i}>
