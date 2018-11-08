@@ -1,8 +1,22 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
+import PropTypes from 'prop-types';
 
 class Photo extends React.Component {
+  static propTypes = {
+    post: PropTypes.shape({
+      caption: PropTypes.string,
+      code: PropTypes.string,
+      display_src: PropTypes.string,
+      id: PropTypes.string,
+      likes: PropTypes.number,
+    }),
+    i: PropTypes.number,
+    comments: PropTypes.shape({}),
+    increment: PropTypes.func,
+  };
+
   render() {
     const { post, i, comments } = this.props;
     const transitionOptions = {

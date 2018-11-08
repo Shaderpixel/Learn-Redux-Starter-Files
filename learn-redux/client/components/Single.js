@@ -1,8 +1,19 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Photo from './Photo';
 import Comments from './Comments';
 
 class Single extends React.Component {
+  static propTypes = {
+    match: PropTypes.shape({
+      params: PropTypes.shape({
+        postId: PropTypes.string,
+      }),
+    }),
+    posts: PropTypes.array,
+    comments: PropTypes.shape({}),
+  };
+
   render() {
     const postId = this.props.match.params.postId;
     // index of the post
