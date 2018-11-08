@@ -1,5 +1,7 @@
 # Learn Redux Starter files
 
+__SEE LEARN REDUX FOLDER README.MD AND COMMIT MESSAGES FOR MY DETAILS IN UPDATED THE DEPENDENCIES AND WHAT CHANGED COMPARED TO THE VIDEOS__
+
 This repo includes the `learn-redux` folder which is where you will build your application as well as a number of partially finished `client` folder contents that correspond with the **start** of each video. These stepped folders should be used to reference or restore your application if things aren't working 100%.
 
 There are only folders for videos which have significant changes.
