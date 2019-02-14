@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee0a1491-162d-4eca-a77e-f9feeabf72f4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Single.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Single.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comments.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Comments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/data/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="260">
+                <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Photo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Photo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhotoGrid.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/components/PhotoGrid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/devServer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>connected</find>
+      <find>c</find>
+      <find>`</find>
+      <find>react-dom</find>
+      <find>module.e</find>
+      <find>babel</find>
+      <find>red</find>
+      <find>noe</find>
+      <find>tapa</find>
+      <find>expect-j</find>
+      <find>react</find>
+      <find>test</find>
+      <find>BAPIPRjQce9</find>
+      <find>mocha</find>
+      <find>props</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learn-redux/client/history.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/store.js" />
+        <option value="$PROJECT_DIR$/10/store.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/styles/_animations.styl" />
+        <option value="$PROJECT_DIR$/learn-redux/client/actions/actionCreator.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/data/config.js" />
+        <option value="$PROJECT_DIR$/learn-redux/.babelrc" />
+        <option value="$PROJECT_DIR$/learn-redux/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/learn-redux/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/stores/history.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/actions/actionCreators.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/reducers/index.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/reduxstagram.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/App.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/Main.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/reducers/comments.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/stores/index.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/reducers/posts.js" />
+        <option value="$PROJECT_DIR$/learn-redux/package.json" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/Comments.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/Photo.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/PhotoGrid.js" />
+        <option value="$PROJECT_DIR$/learn-redux/client/components/Single.js" />
+        <option value="$PROJECT_DIR$/learn-redux/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/learn-redux/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/learn-redux/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/learn-redux/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-812" />
+    <option name="y" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learn-Redux-Starter-Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn-Redux-Starter-Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn-Redux-Starter-Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn-Redux-Starter-Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Redux-Starter-Files" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-redux/client/stores" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learn-redux/client/reducers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee0a1491-162d-4eca-a77e-f9feeabf72f4" name="Default" comment="" />
+      <created>1539485152892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539485152892</updated>
+      <workItem from="1539485154288" duration="634000" />
+      <workItem from="1539527630977" duration="20663000" />
+      <workItem from="1539646860845" duration="10373000" />
+      <workItem from="1539662082961" duration="6312000" />
+      <workItem from="1540045043795" duration="71401000" />
+      <workItem from="1540824136183" duration="575000" />
+      <workItem from="1540946964311" duration="6680000" />
+      <workItem from="1541028329909" duration="8071000" />
+      <workItem from="1541079623099" duration="18312000" />
+      <workItem from="1541309818271" duration="8872000" />
+      <workItem from="1541557884032" duration="10263000" />
+      <workItem from="1541665756776" duration="76000" />
+      <workItem from="1550185048796" duration="600000" />
+    </task>
+    <task id="LOCAL-00001" summary="- Initialize project in idea and installed package dependencies">
+      <created>1539534766022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539534766022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Completed Redux course&#10;- Made various changes and updates to packages listed in package.json, making use of the latest Webpack, React, Connected Router, Redux and more.&#10;- Setup with latest version of dependencies working as of 10/27/2018 with exception of a non-breaking error message in browser console [see issue] (https://github.com/wmonk/create-react-app-typescript/issues/395)">
+      <created>1540698547273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540698547274</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed deprecated packages 1. react-addons-css-transition-group 2. react-router-redux 3. react-addons-test-utils">
+      <created>1540947953145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540947953145</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Installed needed packages &#10;1. history &#10;2. connected-react-router &#10;3. react-router-dom &#10;4. react-transition-group &#10;5. babel-plugin-transform-class-properties">
+      <created>1540950472713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540950472713</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Installed needed packages babel-preset-env to replace babel-preset-es2015, react-element-to-jsx-string&#10;&#10;Updated packages to the latest stable versions, especially webpack, react, react-router, react redux, redux, stylus-loader, webpack-dev-middleware, webpack-hot-middleware">
+      <created>1540952185824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540952185824</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update webpack configuration files to the latest syntax">
+      <created>1540952592204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540952592204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update .babelrc file to use preset-env and transform-class-properties plugin">
+      <created>1540952876940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540952876940</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change mode values to strings and specify loader word for babel-loader in modules">
+      <created>1540953476462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540953476462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update react-dom to v^16">
+      <created>1541028978133</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541028978133</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created Main, PhotoGrid, and Single components&#10;Added code to Main and linked it to the react-dom render in reduxstagram.js&#10;&#10;[WIP] Link in Main is not working as it requires a router to be set up and is throwing errors">
+      <created>1541033849408</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541033849408</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added code to  PhotoGrid and Single component">
+      <created>1541036107101</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1541036107101</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[stores/history.js]&#10;Since browserHistory is deprecated, we replace it with the history module and export the createBrowserHistory from history.js as we will be using it in multiple places in the future. We create a stores folder for future use and place the history.js file inside. &#10;&#10;[reduxstagram.js]&#10;Since Router is deprecated, we will be using ConnectedRouter with redux but that requires further setup of store. We will import BrowserRouter for now to make sure our routing is working right.&#10;&#10;Since IndexRoute is deprecated [originally used in reduxstagram.js], we will use Route from react-router-dom in Main.js and have the switching done inside Main.js&#10;&#10;[components/Main.js]&#10;To have multiple route switching, we need to wrap the routes with a Switch component. Within the Switch component, we match the exact path to '/' to the PhotoGrid component using the exact attribute and anything that matches '/view/:postId' to the Single component.">
+      <created>1541038068550</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541038068550</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[store/index.js]&#10;In redux, the data is stored in a giant store instead of multiple component states. To create the store we utilize the createStore Redux method. We also import compose method which is used to enhance stores. We also import the connectRouter method to help connect our router (which will be ConnectedRouter instead of BrowserRouter) with Redux. For that we also need the history object that we created earlier. createStore method also requires the rootReducer which is a distilled reducer that combines all other reducers. We also need all the data that we will be using. &#10;&#10;We also utilize the applyMiddleware. Middleware provides a way to interact with actions that have been dispatched to the store before they reach the store's reducer. Examples of different uses for middleware include logging actions, reporting errors, making asynchronous requests, and dispatching new actions.">
+      <created>1541040363054</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541040363054</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[actions/actionCreator.js]&#10;All the actions of our react app is stored inside this single js file. We can actually break out each action creator into its own file but since each of the action creator and the returned action is relatively simple we combined it into a single file.">
+      <created>1541126784971</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541126784971</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[reducers/posts.js, reducers/comments.js]&#10;We create a reducer for each pieces of state that we have &#10;&#10;[reducers/index.js]&#10;Since redux can only take in a single reducer, we use the combineReducers method from redux to create a rootReducer. routerReducer is deprecated. So in order for redux to know the changing of state, we use the connectRouter method (which appears in the createStore method [store/index.js]) to communicate information between the history and the rootReducer">
+      <created>1541128414492</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1541128414492</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[stores/index.js]&#10;update folder path to rootReducer&#10;&#10;[reduxstagram.js]&#10;We bring in the Provider component from react-redux and also the store that we created earlier. Now that we have our history and store pieces made, we can now utilize ConnectedRouter instead of BrowserRouter with Redux. BrowserRouter does not accept history. We use the history prop of ConnectedRouter with our history object and wrap it with the Provider component and pass it the store object through the store prop.">
+      <created>1541267724105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541267724106</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[components/App.js]&#10;connect from react-redux allows us to inject the data (our state and actions) at a specific component level instead of passing it down multiple levels through props">
+      <created>1541272183705</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541272183705</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[components/Main.js]&#10;Since we are not using the React.cloneElement to pass this.props down to the child of Main, we now have to do it differently by using a render function and passing down the props differently. This will affect the router match prop in the child later on making it empty (side effect).&#10;&#10;[components/Photo.js]&#10;react-addons-css-transition-group has been deprecated instead we bring in react-transition-group and use the TransitionGroup component to wrap our CSSTransition components. In the latest version of react-transition-group we can specify the element prop of TransitionGroup to be null so that it doesn't generate a useless element wrapper if we don't have a need for it. For the TransitionGroup component, we created an options object and use the spread operator to spread it into the component as props.">
+      <created>1541276700931</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541276700931</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[components/PhotoGrid.js]&#10;Update propname of index to i&#10;&#10;[components/Photo.js]&#10;attach onClick event to the like button to run the increment action that we passed down via App.js. We pass the index to the increment action creator&#10;&#10;[reducers/posts.js]&#10;When an action is triggered, all reducers will run. To ensure the right reducer is executed, we use a switch block to check for the matching case in the action.type.&#10;&#10;To update the state, we use a pure function that would not mutate the original state but instead make a copy of the existing state and update just what we need to update (the single post) - functional programming">
+      <created>1541278570310</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541278570310</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[components/Main.js]&#10;Since we are passing down all the parents props into &lt;Single/&gt; it overwrites the match prop and now it loses the march.params router value from the url variable postId. To get that back, we pass the state of the Route that wraps Single via props and give it the state.match&#10;&#10;[components/Single.js]&#10;Here we locate the post's index by matching the each post's code (UID) to the router match params variable postId. With the post index we then can locate the single post. We then pass these information to the Photo component&#10;&#10;[components/Comments.js]&#10;Created the component to be brought in to the Single component">
+      <created>1541280699456</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541280699456</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[components/Single.js]&#10;Passed the single comment that needs to be edited down to the Comment component&#10;&#10;[components/Comments.js]&#10;Used render function to output each of the comment inside the post and have a form to allow new comments to be added">
+      <created>1541380359655</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1541380359655</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[components/Single.js]&#10;Passed the parent props down so that the postId can be read in Comments component&#10;&#10;[components/Comments.js]&#10;To get information out of the form fields we used the ref attribute and to read the data, we use this.refs however, this.refs will not work because this refers to the window when it is handleSubmit is called. So in order to retain the original reference of this, we use arrow function. After we got the information we need for the add_comment action creator, we call it and pass in the postId, author, and comment">
+      <created>1541381833684</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1541381833684</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[components/Comments.js]&#10;When add_comment action creator is called from the handleSubmit function, it causes the action to be dispatched and the comments reducer to be subsequently executed. We also attached the remove_comment action dispatcher to the onClick handler of the X button &#10;&#10;[reducers/comments.js]&#10;Inside the comments reducer, we use postId as a condition to makesure that the comments reducer acts on the correct dispatched action. We further use the reducer composition method to handle the update of the states by shelling off the update of a single comment to another function called postComments. It is only inside of postComments that we check for the action type using the switch statement since we can either post new comments or remove existing ones.">
+      <created>1541389716228</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1541389716228</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[stores/index.js]&#10;To enable hot reloading of our reducers, we need to grab the module and re-require our reducers by recompiling our root reducer. We cannot use import statement since it can only be used at top-level. Instead, we use the require method and add a .default to get the default export. Since we are using ConnectedRouter, when we replace our rootReducer, we need to let ConnectedRouter know about it, so we do the whole song and dance with connectRouter method with history and the new rootReducer.">
+      <created>1541390585093</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1541390585093</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[stores/index.js]&#10;To enable redux devtools we have to first enhance our store using the compose method from redux. There can only be one compose method running so we combine all of our enhancers (including the one from applyMiddleware early on) and pass it in as arguments for the compose() method.&#10;&#10;[components/Photo.js]&#10;Made comment link from relative to an absolute path otherwise it errors out from within the Single component&#10;&#10;[reducers/post.js]&#10;Remove unnecessary comments">
+      <created>1541391298900</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1541391298900</updated>
+    </task>
+    <task id="LOCAL-00026" summary="- updated packages&#10;- installed prop-types package for type checking&#10;- implemented prop-type checking for Comments component">
+      <created>1541562182270</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541562182270</updated>
+    </task>
+    <task id="LOCAL-00027" summary="- implemented prop-type checking for PhotoGrid, Photo, Single components&#10;- Next Step: hook up to Instagram api using fetch to bring in live pictures">
+      <created>1541647922280</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1541647922280</updated>
+    </task>
+    <task id="LOCAL-00028" summary="- Incorporated the readme from the first-attempt branch. For steps on what I did in conjunction with videos, please see commit messages">
+      <created>1541648187572</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1541648187572</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162832000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-812" y="1080" width="1440" height="834" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32992327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34854245" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update webpack configuration files to the latest syntax" />
+    <MESSAGE value="Update .babelrc file to use preset-env and transform-class-properties plugin" />
+    <MESSAGE value="Change mode values to strings and specify loader word for babel-loader in modules" />
+    <MESSAGE value="Update react-dom to v^16" />
+    <MESSAGE value="Created Main, PhotoGrid, and Single components&#10;Added code to Main and linked it to the react-dom render in reduxstagram.js&#10;&#10;[WIP] Link in Main is not working as it requires a router to be set up and is throwing errors" />
+    <MESSAGE value="Added code to  PhotoGrid and Single component" />
+    <MESSAGE value="[stores/history.js]&#10;Since browserHistory is deprecated, we replace it with the history module and export the createBrowserHistory from history.js as we will be using it in multiple places in the future. We create a stores folder for future use and place the history.js file inside. &#10;&#10;[reduxstagram.js]&#10;Since Router is deprecated, we will be using ConnectedRouter with redux but that requires further setup of store. We will import BrowserRouter for now to make sure our routing is working right.&#10;&#10;Since IndexRoute is deprecated [originally used in reduxstagram.js], we will use Route from react-router-dom in Main.js and have the switching done inside Main.js&#10;&#10;[components/Main.js]&#10;To have multiple route switching, we need to wrap the routes with a Switch component. Within the Switch component, we match the exact path to '/' to the PhotoGrid component using the exact attribute and anything that matches '/view/:postId' to the Single component." />
+    <MESSAGE value="[store/index.js]&#10;In redux, the data is stored in a giant store instead of multiple component states. To create the store we utilize the createStore Redux method. We also import compose method which is used to enhance stores. We also import the connectRouter method to help connect our router (which will be ConnectedRouter instead of BrowserRouter) with Redux. For that we also need the history object that we created earlier. createStore method also requires the rootReducer which is a distilled reducer that combines all other reducers. We also need all the data that we will be using. &#10;&#10;We also utilize the applyMiddleware. Middleware provides a way to interact with actions that have been dispatched to the store before they reach the store's reducer. Examples of different uses for middleware include logging actions, reporting errors, making asynchronous requests, and dispatching new actions." />
+    <MESSAGE value="[actions/actionCreator.js]&#10;All the actions of our react app is stored inside this single js file. We can actually break out each action creator into its own file but since each of the action creator and the returned action is relatively simple we combined it into a single file." />
+    <MESSAGE value="[reducers/posts.js, reducers/comments.js]&#10;We create a reducer for each pieces of state that we have &#10;&#10;[reducers/index.js]&#10;Since redux can only take in a single reducer, we use the combineReducers method from redux to create a rootReducer. routerReducer is deprecated. So in order for redux to know the changing of state, we use the connectRouter method (which appears in the createStore method [store/index.js]) to communicate information between the history and the rootReducer" />
+    <MESSAGE value="[stores/index.js]&#10;update folder path to rootReducer&#10;&#10;[reduxstagram.js]&#10;We bring in the Provider component from react-redux and also the store that we created earlier. Now that we have our history and store pieces made, we can now utilize ConnectedRouter instead of BrowserRouter with Redux. BrowserRouter does not accept history. We use the history prop of ConnectedRouter with our history object and wrap it with the Provider component and pass it the store object through the store prop." />
+    <MESSAGE value="[components/App.js]&#10;connect from react-redux allows us to inject the data at a specific component level instead of passing it down multiple levels through props" />
+    <MESSAGE value="[components/App.js]&#10;connect from react-redux allows us to inject the data (our state and actions) at a specific component level instead of passing it down multiple levels through props" />
+    <MESSAGE value="[components/Main.js]&#10;Since we are not using the React.cloneElement to pass this.props down to the child of Main, we now have to do it differently by using a render function and passing down the props differently. This will affect the router match prop in the child later on making it empty (side effect).&#10;&#10;[components/Photo.js]&#10;react-addons-css-transition-group has been deprecated instead we bring in react-transition-group and use the TransitionGroup component to wrap our CSSTransition components. In the latest version of react-transition-group we can specify the element prop of TransitionGroup to be null so that it doesn't generate a useless element wrapper if we don't have a need for it. For the TransitionGroup component, we created an options object and use the spread operator to spread it into the component" />
+    <MESSAGE value="[components/Main.js]&#10;Since we are not using the React.cloneElement to pass this.props down to the child of Main, we now have to do it differently by using a render function and passing down the props differently. This will affect the router match prop in the child later on making it empty (side effect).&#10;&#10;[components/Photo.js]&#10;react-addons-css-transition-group has been deprecated instead we bring in react-transition-group and use the TransitionGroup component to wrap our CSSTransition components. In the latest version of react-transition-group we can specify the element prop of TransitionGroup to be null so that it doesn't generate a useless element wrapper if we don't have a need for it. For the TransitionGroup component, we created an options object and use the spread operator to spread it into the component as props." />
+    <MESSAGE value="[components/PhotoGrid.js]&#10;Update propname of index to i&#10;&#10;[components/Photo.js]&#10;attach onClick event to the like button to run the increment action that we passed down via App.js. We pass the index to the increment action creator&#10;&#10;[reducers/posts.js]&#10;When an action is triggered, all reducers will run. To ensure the right reducer is executed, we use a switch block to check for the matching case in the action.type.&#10;&#10;To update the state, we use a pure function that would not mutate the original state but instead make a copy of the existing state and update just what we need to update (the single post) - functional programming" />
+    <MESSAGE value="[components/Main.js]&#10;Since we are passing down all the parents props into &lt;Single/&gt; it overwrites the match prop and now it loses the march.params router value from the url variable postId. To get that back, we pass the state of the Route that wraps Single via props and give it the state.match&#10;&#10;[components/Single.js]&#10;Here we locate the post's index by matching the each post's code (UID) to the router match params variable postId. With the post index we then can locate the single post. We then pass these information to the Photo component&#10;&#10;[components/Comments.js]&#10;Created the component to be brought in to the Single component" />
+    <MESSAGE value="[components/Single.js]&#10;Passed the single comment that needs to be edited down to the Comment component&#10;&#10;[components/Comments.js]&#10;Used render function to output each of the comment inside the post and have a form to allow new comments to be added" />
+    <MESSAGE value="[components/Single.js]&#10;Passed the parent props down so that the postId can be read in Comments component&#10;&#10;[components/Comments.js]&#10;To get information out of the form fields we used the ref attribute and to read the data, we use this.refs however, this.refs will not work because this refers to the window when it is handleSubmit is called. So in order to retain the original reference of this, we use arrow function. After we got the information we need for the add_comment action creator, we call it and pass in the postId, author, and comment" />
+    <MESSAGE value="[components/Comments.js]&#10;When add_comment action creator is called from the handleSubmit function, it causes the action to be dispatched and the comments reducer to be subsequently executed. We also attached the remove_comment action dispatcher to the onClick handler of the X button &#10;&#10;[reducers/comments.js]&#10;Inside the comments reducer, we use postId as a condition to makesure that the comments reducer acts on the correct dispatched action. We further use the reducer composition method to handle the update of the states by shelling off the update of a single comment to another function called postComments. It is only inside of postComments that we check for the action type using the switch statement since we can either post new comments or remove existing ones." />
+    <MESSAGE value="[stores/index.js]&#10;To enable hot reloading of our reducers, we need to grab the module and re-require our reducers by recompiling our root reducer. We cannot use import statement since it can only be used at top-level. Instead, we use the require method and add a .default to get the default export. Since we are using ConnectedRouter, when we replace our rootReducer, we need to let ConnectedRouter know about it, so we do the whole song and dance with connectRouter method with history and the new rootReducer." />
+    <MESSAGE value="[stores/index.js]&#10;To enable redux devtools we have to first enhance our store using the compose method from redux. There can only be one compose method running so we combine all of our enhancers (including the one from applyMiddleware early on) and pass it in as arguments for the compose() method.&#10;&#10;[components/Photo.js]&#10;Made comment link from relative to an absolute path otherwise it errors out from within the Single component&#10;&#10;[reducers/post.js]&#10;Remove unnecessary comments" />
+    <MESSAGE value="- updated packages&#10;- installed prop-types package for type checking&#10;- implemented prop-type checking for Comments component" />
+    <MESSAGE value="- implemented prop-type checking for PhotoGrid, Photo, Single components&#10;- Next Step: hook up to Instagram api using fetch to bring in live pictures" />
+    <MESSAGE value="- Incorporated the readme from the first-attempt branch. For steps on what I did in conjunction with videos, please see commit messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Incorporated the readme from the first-attempt branch. For steps on what I did in conjunction with videos, please see commit messages" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/posts.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/comments.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/stores/index.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="756">
+            <caret line="42" column="94" selection-start-line="42" selection-start-column="94" selection-end-line="42" selection-end-column="94" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/devServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/stores/history.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/stores/index.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Main.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/PhotoGrid.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Single.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/actions/actionCreator.js" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/styles/_typography.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/styles/_animations.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-502" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/data/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/node_modules/webpack-dev-middleware/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/node_modules/redux/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/node_modules/webpack-hot-middleware/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-873" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/node_modules/webpack/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/node_modules/expect/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/actions/actionCreator.js" />
+    <entry file="file://$PROJECT_DIR$/learn-redux/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/stores/history.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reduxstagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/data/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/actions/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/stores/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4090" column="10" selection-start-line="4090" selection-start-column="5" selection-end-line="4090" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/devServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/reducers/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Single.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="260">
+            <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/PhotoGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/components/Photo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-redux/client/data/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="170" lean-forward="true" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
